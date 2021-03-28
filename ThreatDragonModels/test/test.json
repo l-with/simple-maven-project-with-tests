@@ -5,7 +5,11 @@
     "description": "high"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "contribitor"
+      }
+    ],
     "diagrams": [
       {
         "title": "diagram",
